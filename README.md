@@ -11,7 +11,7 @@ _*_Features:_*_
 *  Password Reset (Through Email link)
 *  Error View
 
-Add google-services.json file in project. You can find complete step here in this article.
+  Replace google-services.json file in project. You can find complete step here in this article.
 
 
 
